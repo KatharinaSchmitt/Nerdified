@@ -1288,7 +1288,7 @@
       <links>
         <slidelink slideid="_player.6afPxKduukt" displaytext="Nerdified" expand="true" type="slide">
           <links>
-            <slidelink slideid="_player.6afPxKduukt.5ZOhB67bmFi" displaytext="Große Halle" expand="true" type="slide">
+            <slidelink slideid="_player.6afPxKduukt.5ZOhB67bmFi" displaytext="Große Halle" expand="false" type="slide">
               <links>
                 <slidelink slideid="_player.6afPxKduukt.6KyIjxOgTCV" displaytext="Bibliothek" expand="false" type="slide">
                   <links>
